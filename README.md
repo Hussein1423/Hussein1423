@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hussein Qaid
 
-<!--
-**Hussein1423/Hussein1423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on building reliable and maintainable backend systems.
 
-Here are some ideas to get you started:
+I work mainly with C#/.NET and Laravel, with a focus on REST APIs,
+SQL databases, clean architecture, and business-driven backend design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+C# / .NET
+PHP / Laravel
+SQL Server / MySQL
+REST APIs
+Clean Architecture
+SOLID
+Modular Monolith
+Testing
+
+## Featured Projects
+
+### E-commerce Platform
+Modular monolith with product management, approval workflows,
+inventory management and atomic stock operations.
+
+### Taskeen API
+REST API built with Laravel ...
+
+### DVLD
+Desktop application built with C# and SQL Server ...
+
+## Connect
+
+LinkedIn
+Portfolio
